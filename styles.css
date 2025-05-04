@@ -5,6 +5,9 @@ table {
 thead {
 	background-color: aqua
 }
+th {
+	text-align: left;
+}
 table, tr, td {
 	border: 2px solid black;
 	border-collapse: collapse;
