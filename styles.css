@@ -1,1 +1,11 @@
 /* your code */
+table {
+	width: 100%;
+}
+thead {
+	background-color: aqua
+}
+table, tr, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+}
